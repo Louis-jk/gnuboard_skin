@@ -1,0 +1,10 @@
+#go_site a {
+    display: block;
+    float: left;
+    font-size: 0.8rem;
+    line-height: 50px;
+    color: #fff;
+    padding: 0 20px;
+    background: rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
